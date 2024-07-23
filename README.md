@@ -2,6 +2,17 @@
 
 ![Pharmacie Logo](https://yourimageurl.com/logo.png)
 
+
+<p style="color: blue; font-size: 20px;">Ce projet est une application de gestion de pharmacie.</p>
+
+<p style="color: green;">Fonctionnalités principales :</p>
+
+<ul>
+    <li style="color: red;">Gestion des stocks</li>
+    <li style="color: orange;">Traitement des ordonnances</li>
+    <li style="color: purple;">Suivi des ventes</li>
+    <li style="color: teal;">Rapports</li>
+</ul>
 ## Description
 
 Ce projet est une application de gestion de pharmacie qui permet de :
@@ -30,16 +41,16 @@ Ce projet est une application de gestion de pharmacie qui permet de :
     ```
 3. Installez les dépendances :
     ```sh
-    npm install
+    Suivez les instructions pour installer PHP 8.2
     ```
 4. Lancez l'application :
     ```sh
-    npm start
+    php -S localhost:8000
     ```
 
 ## Captures d'écran
 
-![Page d'accueil](https://yourimageurl.com/homepage.png)
+![Page d'accueil](page1.png)
 *Page d'accueil de l'application.*
 
 ![Gestion des stocks](https://yourimageurl.com/stock_management.png)
