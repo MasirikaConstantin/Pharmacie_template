@@ -1,6 +1,6 @@
 # Projet de Pharmacie
 
-![Pharmacie Logo](logo1.jpg)
+![Pharmacie Logo](logo1.png)
 
 
 <p style="color: blue; font-size: 20px;">Ce projet est une application de gestion de pharmacie.</p>
