@@ -1,6 +1,6 @@
 # Projet de Pharmacie
 
-![Pharmacie Logo](https://yourimageurl.com/logo.png)
+![Pharmacie Logo](logo1.jpg)
 
 
 <p style="color: blue; font-size: 20px;">Ce projet est une application de gestion de pharmacie.</p>
@@ -53,7 +53,7 @@ Ce projet est une application de gestion de pharmacie qui permet de :
 ![Page d'accueil](page1.png)
 *Page d'accueil de l'application.*
 
-![Gestion des stocks](https://yourimageurl.com/stock_management.png)
+![Gestion des stocks](gestion1.png)
 *Module de gestion des stocks.*
 
 ## Contribuer
