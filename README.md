@@ -1,7 +1,7 @@
 # Projet de Pharmacie
 
 ![Pharmacie Logo](logo1.png)
-
+<a href="mascode.kesug.com" style="font-size:30px">Demo du site</a>
 
 <p style="color: blue; font-size: 20px;">Ce projet est une application de gestion de pharmacie.</p>
 
@@ -66,6 +66,4 @@ Les contributions sont les bienvenues ! Veuillez suivre les étapes suivantes po
 4. Poussez vers la branche (`git push origin feature/AmazingFeature`).
 5. Ouvrez une Pull Request.
 
-## License
 
-Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
