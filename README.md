@@ -1,12 +1,12 @@
 # Projet de Pharmacie
+<a href="http://mascode.kesug.com" style="font-size:30px;text-decoration: none">Demo du site</a>
 
 ![Pharmacie Logo](logo1.png)
 
 
-<p style="color: blue; font-size: 20px;">Ce projet est une application de gestion de pharmacie.</p>
+<p style="color: blue; font-size: 23px;">Ce projet est une application de gestion de pharmacie.</p>
 
 <p style="color: green;">Fonctionnalités principales :</p>
-<a href="http://mascode.kesug.com" style="font-size:30px;text-decoration: none;">Demo du site</a>
 <ul>
     <li style="color: red;">Gestion des stocks</li>
     <li style="color: orange;">Traitement des ordonnances</li>
